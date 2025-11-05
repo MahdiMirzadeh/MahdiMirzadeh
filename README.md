@@ -5,8 +5,8 @@
 <h3 align="center">A linux enthusiast.</h3>
 <p align="center">
   <a href="mailto:mahdi@mirzadeh.pro"><img src="https://img.shields.io/badge/-Email-14619a?style=flat&amp;logo=Mail.Ru&amp;logoColor=white&amp;link=mahdi@mirzadeh.pro" alt="Email Badge" /></a>
-  <a href="https://x.com/MahdiMirzade"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;logo=Twitter&amp;logoColor=white&amp;link=https://x.com/MahdiMirzade" alt="Twitter Badge" /></a>
-  <a href="https://t.me/MahdiMirzade"><img src="https://img.shields.io/badge/-Telegram-26a5e5?style=flat&amp;logo=Telegram&amp;logoColor=white&amp;link=https://t.me/MahdiMirzade" alt="Telegram Badge" /></a>
+  <a href="https://x.com/MahdiMirzadehX"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;logo=Twitter&amp;logoColor=white&amp;link=https://x.com/MahdiMirzade" alt="Twitter Badge" /></a>
+  <a href="https://t.me/MahdiMirzadehX"><img src="https://img.shields.io/badge/-Telegram-26a5e5?style=flat&amp;logo=Telegram&amp;logoColor=white&amp;link=https://t.me/MahdiMirzade" alt="Telegram Badge" /></a>
   <a href="https://github.com/MahdiMirzadeh"><img src="https://komarev.com/ghpvc/?username=MahdiMirzadeh&amp;label=Profile+Views&amp;color=c792ea&amp;style=flat" alt="Profile Views Badge" /></a>
   <a href="https://www.youtube.com/channel/UCgQdkPgiKuhEj9bzxWgPS1w"><img src="https://img.shields.io/badge/-Youtube-ff0000?style=flat&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCgQdkPgiKuhEj9bzxWgPS1w" alt="Youtube Badge" /></a>
   <a href="https://mirzadeh.pro"><img src="https://img.shields.io/badge/-Website-ff7139?style=flat&amp;logo=Firefox&amp;logoColor=white&amp;link=https://mirzadeh.pro" alt="Mahdi Mirzadeh's Website" /></a>
