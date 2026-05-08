@@ -1,43 +1,30 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/gifs/hello.gif" width="50px"/>
-  Hey, Mahdi's Here
-</h1>
-<h3 align="center">A linux enthusiast.</h3>
-<p align="center">
-  <a href="mailto:mahdi@mirzadeh.pro"><img src="https://img.shields.io/badge/-Email-14619a?style=flat&amp;logo=Mail.Ru&amp;logoColor=white&amp;link=mahdi@mirzadeh.pro" alt="Email Badge" /></a>
-  <a href="https://x.com/MahdiMirzadehX"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;logo=Twitter&amp;logoColor=white&amp;link=https://x.com/MahdiMirzade" alt="Twitter Badge" /></a>
-  <a href="https://t.me/MahdiMirzadehX"><img src="https://img.shields.io/badge/-Telegram-26a5e5?style=flat&amp;logo=Telegram&amp;logoColor=white&amp;link=https://t.me/MahdiMirzade" alt="Telegram Badge" /></a>
-  <a href="https://github.com/MahdiMirzadeh"><img src="https://komarev.com/ghpvc/?username=MahdiMirzadeh&amp;label=Profile+Views&amp;color=c792ea&amp;style=flat" alt="Profile Views Badge" /></a>
-  <a href="https://www.youtube.com/channel/UCgQdkPgiKuhEj9bzxWgPS1w"><img src="https://img.shields.io/badge/-Youtube-ff0000?style=flat&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCgQdkPgiKuhEj9bzxWgPS1w" alt="Youtube Badge" /></a>
-  <a href="https://mirzadeh.pro"><img src="https://img.shields.io/badge/-Website-ff7139?style=flat&amp;logo=Firefox&amp;logoColor=white&amp;link=https://mirzadeh.pro" alt="Mahdi Mirzadeh's Website" /></a>
-  <a href="https://gist.github.com/MahdiMirzadeh"><img src="https://img.shields.io/badge/-Github Gist-1c1f23?style=flat&amp;logo=Github&amp;logoColor=white&amp;link=https://gist.github.com/MahdiMirzadeh" alt="Github Gist Badge" /></a>
-</p>
+# Mahdi Mirzadeh
 
-<img align="right" src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/gifs/planet.gif" width="240px"/>
+Independent software developer from Iran.
 
-### <img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/gifs/banana.idea.gif" width="32px"/> About me:
-| 🔣 | Command | Output |
-| --- | --- | --- |
-| :earth_asia: | `pwd` | `Mazandaran, Iran` |
-| :boy: | `whoami` | `A senior high school student.` |
-| :seedling: | `uname -v` | `#2 SMP Thu, 25 Sep 2003 09:20:32 +0330.` |
-| :desktop_computer: | `ps -a` | `Currently learning HTML. (6 years in)` |
-| :information_source: | `neofetch` | `Arch Linux / zsh 5.8 / bspwm / urxvt` |
+I work on application runtimes, platform tooling, storage systems, service infrastructure, and developer-facing software. Most of my work is built with Rust, TypeScript, POSIX shell
+, and web technologies.
 
-### <img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/gifs/potato.dancing.gif" width="32px"/> Familiar with:
-<p>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/c.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/c++.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/python.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/bash.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/php.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/html5.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/css3.svg" width="32px"/>
-<img src="https://raw.githubusercontent.com/MahdiMirzadeh/MahdiMirzadeh/main/assets/icons/languages/javascript.svg" width="32px"/>
-</p>
+## Current work
 
-***
+- **Mehrnet**: hosting website and related internal tools for billing, service management, and customer workflows.
+- **MXA / Modixa**: a small language and runtime for bots and apps that can run across platforms such as Telegram, with broader multi-platform execution in mind.
+- **YHub**: a Rust-based file hosting and synchronization system where directories and archives share the same format and permission model.
+- **Zal**: a desktop application runtime for HTML, CSS, and JavaScript, built with theming, adaptive interfaces, and accessibility in mind.
 
-| Mahdi Mirzadeh's Github Status | Most Used Languages |
-| --- | --- |
-| [![Github Stats](https://github-readme-stats.vercel.app/api?username=MahdiMirzadeh&show_icons=true&theme=nightowl&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) | [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiMirzadeh&show_icons=true&theme=nightowl&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) |
+## Background
+
+Outside of those projects, I spend time around Linux, shells, BSD systems, software patching, and small self-hosted tools. That work is mostly exploratory and personal, but it stron
+gly shapes how I design software.
+
+I prefer systems that are explicit, inspectable, and easy to own end to end.
+
+## Links
+
+- Website: [mirzadeh.pro](https://mirzadeh.pro)
+- Projects: [mirzadeh.pro/projects](https://mirzadeh.pro/projects)
+- Git mirror: [git.mirzadeh.pro](https://git.mirzadeh.pro)
+- X: [@MahdiMirzadehX](https://x.com/MahdiMirzadehX)
+- Telegram: [@MahdiMirzade](https://t.me/MahdiMirzade)
+- YouTube: [@MahdiMirzadehX](https://www.youtube.com/@MahdiMirzadehX)
+- Email: [mahdi@mirzadeh.pro](mailto:mahdi@mirzadeh.pro)
